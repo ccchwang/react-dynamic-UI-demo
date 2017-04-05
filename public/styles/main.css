@@ -93,6 +93,7 @@ body {
 .hover-row2 {
   width: 65%;
   padding-bottom: 180px;
+  max-width: 1060px !important
 }
 
 p {
