@@ -18,8 +18,8 @@ render(
   <HeroVideo
     videoSrc="./video/ocean-vid.mp4"
     videoType="video/mp4">
-    Sample Heading Goes Here
-    <button className="btn nav-btn">LEARN MORE</button>
+    Demo for react-dynamic-UI
+    <a id="src-link" href="https://github.com/chloehwang/react-dynamic-UI"><button className="btn nav-btn">LEARN MORE</button></a>
   </HeroVideo>
 
   <Jumbotron>
