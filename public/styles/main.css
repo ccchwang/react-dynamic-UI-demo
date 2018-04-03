@@ -19,7 +19,7 @@ body {
 }
 
 .jumbo-bg {
-  background-image: url('https://picjumbo.imgix.net/HNCK3916.jpg?q=40&w=1650&sharp=30');
+  background-image: url('/images/ocean-bg.jpg');
 }
 
 .jumbo-fadeUp h1, .jumbo-fadeUp h2 {
